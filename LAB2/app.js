@@ -1,4 +1,3 @@
-
 var num = 10;
   let name = "win"
   age = 20;
